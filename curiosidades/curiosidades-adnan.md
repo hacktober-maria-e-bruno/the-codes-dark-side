@@ -1,0 +1,6 @@
+- O Darth Vader, na verdade, nunca disse "Luke, eu sou seu pai". Isso se chama Efeito Mandela. Ele disse "não, eu sou seu pai."
+- No episódio IV, um clone bate a testa no teto do set e a cena não foi regravada
+- Quando estavam gravando as cenas em Kishykk, no episódio V, não permitiram que o ator do Chewbacca caminhasse na floresta usando a sua roupa de filmagem porque tiveram medo que atirassem nele pensando ser um Pé Grande
+- O MMORPG de Star Wars, The Old Republic, é um dos melhores já feitos, apesar de ser tão esquecido pela fanbase
+- Anakin Skywalker de fato trouxe equilíbrio à Força: após ele, passaram a existir dois Sith e dois Jedi
+- A explicação do funcionamento da Força utilizada na segunda trilogia foi amplamente ignorada pela fanbase por ser um lixo
