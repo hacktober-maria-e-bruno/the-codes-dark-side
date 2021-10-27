@@ -5,7 +5,8 @@
  
  ****
  
-  O algoritmo Bubble Sort é um algoritmo de ordenação que varre os elementos começando pela esquerda e movendo o maior valor para sua posição correta, depois repete o processo com o segundo maior elemento e assim por diante.
+  O algoritmo Bubble Sort é um algoritmo de ordenação que varre os elementos começando pela esquerda e movendo o maior valor para sua posição
+ correta, depois repete o processo com o segundo maior elemento e assim por diante.
 */
 
 import Foundation

@@ -7,7 +7,8 @@
  
  ****
  
- Cocktail Sort é uma variação do Bubble Sort. O algoritmo Bubble Sort varre os elementos começando pela esquerda e movendo o maior valor para sua posição correta, depois repete o processo com o segundo maior elemento e assim por diante.
+ Cocktail Sort é uma variação do Bubble Sort. O algoritmo Bubble Sort varre os elementos começando pela esquerda e movendo o maior valor para sua
+ posição correta, depois repete o processo com o segundo maior elemento e assim por diante.
  O algoritmo Cocktail Sort varre o array nas duas direções alternadamente.
 */
 
